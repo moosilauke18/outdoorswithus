@@ -1,0 +1,35 @@
+languageCode = "en-us"
+title = "OutdoorsWith.Us"
+baseURL = "https://outdoorswith.us/"
+paginate = 5
+Copyright = "All rights reserved - "
+canonifyurls = true
+
+[params]
+  description = "Join us (Evan and Emily) as we adventure in the wilderness"
+  cover = "images/cover.jpg"
+  author = "Evan Farrell"
+  authorlocation = "State College, PA"
+  authorwebsite = "https://outdoorswith.us"
+  bio= "my bio"
+  logo = "images/evan.png"
+  # googleAnalyticsUserID = "UA-79101-12"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  # RSSLink = "http://feeds.feedburner.com/..."
+  twitterName = "outdoorswithus"
+  instagramName = "outdoorswith.us"
+  hideHUGOSupport = true
+  [params.social]
+    twitter = "outdoorswithus"
+
+[[menu.main]]
+    name = "My Blog"
+    weight = -120
+    identifier = "blog"
+    url = "/"
+
+[[menu.main]]
+    name = "About Us"
+    weight = -110
+    identifier = "about"
+    url = "/about"
