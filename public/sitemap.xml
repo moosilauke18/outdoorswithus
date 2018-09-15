@@ -1,8 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://outdoorswith.us/post/dotscale-2014-as-a-sketch/</loc>
+    <lastmod>2017-03-08T20:24:15-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://outdoorswith.us/about/</loc>
+    <lastmod>2017-03-08T20:06:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://outdoorswith.us/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://outdoorswith.us/tags/dotscale/</loc>
+    <lastmod>2017-03-08T20:24:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://outdoorswith.us/tags/event/</loc>
+    <lastmod>2017-03-08T20:24:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
   
   <url>
     <loc>https://outdoorswith.us/</loc>
+    <lastmod>2017-03-08T20:24:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://outdoorswith.us/post/</loc>
+    <lastmod>2017-03-08T20:24:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://outdoorswith.us/tags/sketchnote/</loc>
+    <lastmod>2017-03-08T20:24:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://outdoorswith.us/tags/</loc>
+    <lastmod>2017-03-08T20:24:15-05:00</lastmod>
     <priority>0</priority>
   </url>
   

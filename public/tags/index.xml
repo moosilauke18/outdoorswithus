@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on OutdoorsWith.Us</title>
+    <link>https://outdoorswith.us/tags/</link>
+    <description>Recent content in Tags on OutdoorsWith.Us</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - </copyright>
+    <lastBuildDate>Wed, 08 Mar 2017 20:24:15 -0500</lastBuildDate>
+    
+	<atom:link href="https://outdoorswith.us/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dotscale</title>
+      <link>https://outdoorswith.us/tags/dotscale/</link>
+      <pubDate>Wed, 08 Mar 2017 20:24:15 -0500</pubDate>
+      
+      <guid>https://outdoorswith.us/tags/dotscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event</title>
+      <link>https://outdoorswith.us/tags/event/</link>
+      <pubDate>Wed, 08 Mar 2017 20:24:15 -0500</pubDate>
+      
+      <guid>https://outdoorswith.us/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketchnote</title>
+      <link>https://outdoorswith.us/tags/sketchnote/</link>
+      <pubDate>Wed, 08 Mar 2017 20:24:15 -0500</pubDate>
+      
+      <guid>https://outdoorswith.us/tags/sketchnote/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,6 +4,7 @@ baseURL = "https://outdoorswith.us/"
 paginate = 5
 Copyright = "All rights reserved - "
 canonifyurls = true
+theme = "casper"
 
 [params]
   description = "Join us (Evan and Emily) as we adventure in the wilderness"

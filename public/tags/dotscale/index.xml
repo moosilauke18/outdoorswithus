@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OutdoorsWith.Us</title>
-    <link>https://outdoorswith.us/</link>
-    <description>Recent content on OutdoorsWith.Us</description>
+    <title>Dotscale on OutdoorsWith.Us</title>
+    <link>https://outdoorswith.us/tags/dotscale/</link>
+    <description>Recent content in Dotscale on OutdoorsWith.Us</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved - </copyright>
     <lastBuildDate>Wed, 08 Mar 2017 20:24:15 -0500</lastBuildDate>
     
-	<atom:link href="https://outdoorswith.us/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://outdoorswith.us/tags/dotscale/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>https://outdoorswith.us/post/dotscale-2014-as-a-sketch/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut convallis lacus. Nam bibendum hendrerit est, ac dictum mi bibendum sed. Morbi porta non urna ut suscipit. Curabitur eget est auctor, bibendum neque eget, cursus mauris. Suspendisse sed rhoncus magna. Nam imperdiet elementum mauris vel feugiat. Quisque sagittis placerat erat, in ultricies risus eleifend sit amet. Suspendisse at lectus cursus, laoreet leo non, fermentum neque. Quisque et pretium metus. Aenean quis viverra nisl.</description>
-    </item>
-    
-    <item>
-      <title>About Us</title>
-      <link>https://outdoorswith.us/about/</link>
-      <pubDate>Wed, 08 Mar 2017 20:06:26 -0500</pubDate>
-      
-      <guid>https://outdoorswith.us/about/</guid>
-      <description></description>
     </item>
     
   </channel>
